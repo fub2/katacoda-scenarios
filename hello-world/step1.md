@@ -1,7 +1,6 @@
 The following snippet can be copied into the editor:
 
-<pre class="file" data-filename="infrasim.yml" data-target="replace">
----
+<pre class="file" data-filename="infrasim.yml" data-target="replace">---
 #This file is used as InfraSIM configuration file
 name: 1st-dell-r730
 
