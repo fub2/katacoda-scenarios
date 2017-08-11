@@ -14,9 +14,15 @@
       "credits": ""
     },
     "assets": {
-      "host": [
+      "host01": [
         {
           "file": "infrasim.yml",
+          "target": "~/"
+        }
+      ],
+      "host01": [
+        {
+          "file": "courseBase.sh",
           "target": "~/"
         }
       ]
