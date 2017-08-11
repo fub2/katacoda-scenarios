@@ -10,8 +10,17 @@
     }],
     "intro": {
       "text": "intro.md",
+      "courseData": "prerun.sh"
       "credits": ""
     },
+    "assets": {
+      "client": [
+        {
+          "file": "infrasim.yml",
+          "target": "~/"
+        }
+      ]
+    }    
     "finish": {
       "text": "finish.md"
     }
