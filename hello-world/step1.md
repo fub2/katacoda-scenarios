@@ -1,6 +1,6 @@
 The following snippet can be copied into the editor:
 
-<pre class="file" data-filename="app.js" data-target="replace">var http = require('http');
+<pre class="file" data-filename="app.js" data-target="replace">
 ---
 #This file is used as InfraSIM configuration file
 name: first-infrasim-node
